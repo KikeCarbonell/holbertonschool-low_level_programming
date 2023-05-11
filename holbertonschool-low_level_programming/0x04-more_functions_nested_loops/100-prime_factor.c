@@ -5,8 +5,9 @@
  *
  *
  */
-int main(void)
+int main()
 {
+  
   long int n;
   long int max;
   long int i;
