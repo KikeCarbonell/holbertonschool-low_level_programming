@@ -1,6 +1,8 @@
 
 # Understanding Compilation: A Step-by-Step Guide
 
+![imagen](https://www.softzone.es/app/uploads-softzone.es/2022/04/Programacion-C-Cplusplus-csharp.jpg)
+
 Have you ever wondered how your source code transforms into an executable program? The answer lies in the compilation process. Compilation is a crucial step in software development where human-readable source code is translated into machine-readable instructions. In this blog post, we'll dive into the intricate steps of compilation using **gcc**, one of the most popular compilers in the world of programming.
 
 ## Step 1: Writing Source Code
